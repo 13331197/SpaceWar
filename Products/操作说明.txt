@@ -1,0 +1,16 @@
+Player Control:
+W,A,S,D: control the airship to move up,left,down and right.
+Direction key up & down: control the airship to move forward or backforward.
+Space: control the airship to fire.
+R: print screen.
+
+Game Info:
+Airship: Role which player controls.
+Enemy: Distinguished by 4 different types, Can shoot to injured the airship.
+Boss: A type of enemies, Destroy it to get victory. 
+Star: Moving space object, Can injured the airship.
+BlackHole: Dangerous! Can directly ruin the airship.
+BulletProp: Can be touched to get it to temporarily increase your bullet amount.
+BloodProp: Can be touched to get it to increase your blood value.
+
+Rule: Move & Fire to destroy enemies and other objects to get grade, defeat BOSS in time to win the game. 
